@@ -1,4 +1,4 @@
-## Jotaro Sans Simulator
+## haoge aboud Simulator
 An **[Undertale](undertale.com)** AU crossover game simulator to fight Jotaro Sans.
 I am actually not good at coding to modify the attacks.
 
@@ -8,7 +8,7 @@ I am actually not good at coding to modify the attacks.
 - Added a few dialogs and modified some Sans attacks.
 - Changed the font and texture colors.
 - Replaced classic **Megalovania** music with **Bizarrovania (Meanwhile In The Judgement)** music.
-- **Sans Head Sprites** was replaced with **Jotaro Sans Head Sprites**.
+- **Sans Head Sprites** was replaced with **aboud head  Sprites**.
 
 ### Food Items
 - All food items has increased the HP recovery.
